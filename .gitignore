@@ -1,0 +1,11 @@
+
+node_modules
+.env.local
+coverage
+coverage.json
+typechain
+cache
+artifacts
+gas-report.txt
+.idea
+
